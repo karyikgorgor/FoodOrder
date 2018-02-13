@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FoodOrder</string>
+    <string name="slogonTxt">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</string>
+    <string name="sign_up_txt">Sign Up</string>
+    <string name="sign_in_txt">Sign In</string>
+    <string name="phone_no">Phone Number</string>
+    <string name="name">Name</string>
+    <string name="password_hint">Password</string>
+    <string name="def_phone1">0123</string>
+    <string name="def_password1">1234</string>
+</resources>
